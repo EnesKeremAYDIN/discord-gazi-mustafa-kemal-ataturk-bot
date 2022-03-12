@@ -1,6 +1,6 @@
 # Gazi Mustafa Kemal Atatürk Discord Bot'u
 
-[Sunucuna ekle](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=719897844085161985)
+[Sunucuna ekle](https://discord.com/oauth2/authorize?scope=bot+applications.commands&permissions=0&client_id=719897844085161985)  
 [Top.gg](https://top.gg/bot/719897844085161985)
 
 ## Bots Terms of Service
